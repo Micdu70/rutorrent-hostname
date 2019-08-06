@@ -4,7 +4,7 @@ HostName Plugin for RUTorrent
 The purpose of this plugin is to show hostnames of peers for selected torrent.
 Based on GeoIP plugin.
 
-![Screenshot](http://www.netlab.linkpc.net/download/software/rtorrent/rutorrent/hostnames.png)
+![Screenshot](https://i.imgur.com/VrPA3O2.png)
 
 Goals
 -----
